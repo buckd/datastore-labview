@@ -14,5 +14,6 @@
 		<Item Name="Call Client Generator.vi" Type="VI" URL="../Call Client Generator.vi"/>
 		<Item Name="Get Generation Info From Proto.vi" Type="VI" URL="../Get Generation Info From Proto.vi"/>
 	</Item>
+	<Item Name="Clean gRPC Client.vi" Type="VI" URL="../Clean gRPC Client.vi"/>
 	<Item Name="Generate gRPC Client.vi" Type="VI" URL="../Generate gRPC Client.vi"/>
 </Library>
