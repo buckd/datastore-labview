@@ -12,7 +12,12 @@
 	</Item>
 	<Item Name="subVIs" Type="Folder">
 		<Item Name="Call Client Generator.vi" Type="VI" URL="../Call Client Generator.vi"/>
+		<Item Name="Close Project.vi" Type="VI" URL="../Close Project.vi"/>
+		<Item Name="Copy Library.vi" Type="VI" URL="../Copy Library.vi"/>
+		<Item Name="Get Generated gRPC API Path.vi" Type="VI" URL="../Get Generated gRPC API Path.vi"/>
 		<Item Name="Get Generation Info From Proto.vi" Type="VI" URL="../Get Generation Info From Proto.vi"/>
+		<Item Name="Rename Library.vi" Type="VI" URL="../Rename Library.vi"/>
+		<Item Name="Standardize Generated API Paths.vi" Type="VI" URL="../Standardize Generated API Paths.vi"/>
 	</Item>
 	<Item Name="Clean gRPC Client.vi" Type="VI" URL="../Clean gRPC Client.vi"/>
 	<Item Name="Generate gRPC Client.vi" Type="VI" URL="../Generate gRPC Client.vi"/>
